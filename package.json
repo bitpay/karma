@@ -4,7 +4,7 @@
   "homepage": "http://karma-runner.github.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma.git"
+    "url": "git://github.com/bitpay/karma.git"
   },
   "bugs": {
     "url": "https://github.com/karma-runner/karma/issues"
@@ -212,7 +212,7 @@
     "optimist": "^0.6.1",
     "q": "^1.4.1",
     "rimraf": "^2.3.3",
-    "socket.io": "0.9.16",
+    "socket.io": "https://github.com/bitpay/socket.io#bitpay-1.3.7",
     "source-map": "^0.4.2",
     "useragent": "^2.1.6"
   },
